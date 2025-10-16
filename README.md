@@ -2,7 +2,7 @@
 
 In this approach, we will connect to a Linux instance using SSH and the public IP address that is provided by OCI to connect directly to the instance using the macOS terminal.
 
-<img width="2338" height="1710" alt="Access-Manage-Linux-Instance-200" src="https://github.com/user-attachments/assets/8d66fe68-091f-4410-995b-370403b9188f" />
+<img width="2338" height="1710" alt="Access-Manage-Linux-Instance-200" src="https://github.com/user-attachments/assets/b60a2843-ea8b-47ae-92d8-c0980a73ab7d" />
 
 + Run the following commands.
 
@@ -35,7 +35,7 @@ ip a
 
 6 - Verify the IP address.
 
-<img width="1047" height="583" alt="Access-Manage-Linux-Instance-201" src="https://github.com/user-attachments/assets/4dc0de5d-3339-498e-a2d6-80f45e0fa62a" />
+<img width="1047" height="583" alt="Access-Manage-Linux-Instance-201" src="https://github.com/user-attachments/assets/e369e8a0-9096-421a-bfe3-51366f927b31" />
 
 ---
 
